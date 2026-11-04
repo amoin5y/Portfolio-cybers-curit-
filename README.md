@@ -42,7 +42,7 @@ Puis ouvrir http://localhost:8000.
 
 1. Ouvrir **Settings → Pages** dans ce dépôt.
 2. Dans **Build and deployment**, choisir **Deploy from a branch**.
-3. Sélectionner la branche `main` et le dossier `/ (root)), puis enregistrer.
+3. Sélectionner la branche `main` et le dossier `/ (root)`, puis enregistrer.
 4. Attendre la fin du déploiement et ouvrir l’URL fournie par GitHub Pages.
 
 Le dépôt est actuellement configuré comme privé. Vérifier les conditions d’accès et la visibilité du dépôt : la disponibilité de GitHub Pages dépend du type de compte et des paramètres du dépôt.
