@@ -45,7 +45,7 @@ Puis ouvrir http://localhost:8000.
 3. Sélectionner la branche `main` et le dossier `/ (root)`, puis enregistrer.
 4. Attendre la fin du déploiement et ouvrir l’URL fournie par GitHub Pages.
 
-Le dépôt est actuellement configuré comme privé. Vérifier les conditions d’accès et la visibilité du dépôt : la disponibilité de GitHub Pages dépend du type de compte et des paramètres du dépôt.
+Le dépôt est actuellement **privé**. GitHub Pages est disponible pour les dépôts publics avec GitHub Free ; la publication depuis un dépôt privé nécessite un plan compatible (Pro, Team ou Enterprise). Un site Pages publié est accessible publiquement par défaut selon la configuration. Avant de rendre le dépôt public, vérifier qu’il ne contient aucun secret, identifiant, adresse privée, capture sensible ou document confidentiel. La visibilité du dépôt n’a pas été modifiée.
 
 ## Personnalisation à effectuer
 
