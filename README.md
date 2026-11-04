@@ -14,7 +14,6 @@ Portfolio personnel consacré à mon parcours et à mes apprentissages en cybers
 ```text
 .
 ├── index.html
-├── about.html
 ├── projects.html
 ├── oryvan-nex.html
 ├── learning.html
