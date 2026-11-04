@@ -5,7 +5,7 @@ Portfolio personnel consacré à mon parcours et à mes apprentissages en cybers
 ## Aperçu
 
 - **Profil :** étudiante en Master 2 Cybersécurité & Internet des objets — Université Virtuelle de Côte d’Ivoire.
-- **Projet principal :** ORYVAN NEX, laboratoire personnel en cours de préparation et de déploiement.
+- **Projet principal :** ORYVAN NEX, laboratoire personnel en phase de préparation et de déploiement initial.
 - **Technologies du site :** HTML5, CSS3 et JavaScript natif.
 - **Hébergement prévu :** GitHub Pages.
 
@@ -23,8 +23,8 @@ Portfolio personnel consacré à mon parcours et à mes apprentissages en cybers
 ├── assets/
 │   ├── css/style.css
 │   ├── js/main.js
-│   ├── docs/       # CV PDF et documents publics à ajouter
-│   └── images/     # Images et schémas à ajouter
+│   ├── docs/
+│   └── images/
 └── README.md
 ```
 
@@ -34,18 +34,22 @@ Le site est statique : ouvrir `index.html` dans un navigateur ou lancer un serve
 
 ```bash
 python -m http.server 8000
-``
+```
 
 Puis ouvrir http://localhost:8000.
 
 ## Publication sur GitHub Pages
 
+Le dépôt est actuellement **public**. La publication du site reste à activer ou à vérifier dans GitHub :
+
 1. Ouvrir **Settings → Pages** dans ce dépôt.
 2. Dans **Build and deployment**, choisir **Deploy from a branch**.
 3. Sélectionner la branche `main` et le dossier `/ (root)`, puis enregistrer.
-4. Attendre la fin du déploiement et ouvrir l’URL fournie par GitHub Pages.
+4. Attendre la fin du déploiement et consulter l'URL affichée par GitHub Pages.
 
-Le dépôt est actuellement **privé**. GitHub Pages est disponible pour les dépôts publics avec GitHub Free ; la publication depuis un dépôt privé nécessite un plan compatible (Pro, Team ou Enterprise). Un site Pages publié est accessible publiquement par défaut selon la configuration. Avant de rendre le dépôt public, vérifier qu’il ne contient aucun secret, identifiant, adresse privée, capture sensible ou document confidentiel. La visibilité du dépôt n’a pas été modifiée.
+URL attendue : https://amoin5y.github.io/Portfolio-cybers-curit-/
+
+Un dépôt public et un site GitHub Pages publié sont deux choses différentes. Vérifier que le déploiement est terminé avant de partager l'URL du site.
 
 ## Personnalisation à effectuer
 
