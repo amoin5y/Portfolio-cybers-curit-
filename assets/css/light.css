@@ -1,0 +1,30 @@
+/* Elegant light theme — restrained, neutral and professional */
+:root{--bg:#f7f8fa;--surface:#fff;--surface2:#f0f2f5;--line:#dfe3e8;--text:#202b38;--muted:#667383;--cyan:#526b80;--blue:#405b75;--green:#47745f}
+html,body{background:#f7f8fa!important;color:#202b38!important}
+body{background-image:none!important}
+header{background:rgba(255,255,255,.98)!important;border-bottom:1px solid #dfe3e8!important}
+.navlinks a{color:#566373!important}.navlinks a:hover,.navlinks a.active{color:#202b38!important}
+.brand-mark{border-color:#aeb9c5!important;color:#405b75!important;background:#fff!important}
+.eyebrow,.kicker,.card-icon,.timeline-item small{color:#687b8e!important}
+h1 span,.gradient{background:none!important;color:#526b80!important}
+.lead{color:#536171!important}
+.profile-card,.panel,.card{background:#fff!important;background-image:none!important;border:1px solid #dfe3e8!important;box-shadow:0 5px 18px rgba(25,38,52,.035)!important}
+.profile-card:after{border-color:#e1e5e9!important;box-shadow:none!important}
+.monogram{background:#f0f2f5!important;border-color:#d9dfe5!important;color:#405b75!important}
+.tag{color:#536779!important;border-color:#d9e0e6!important;background:#f6f7f9!important}
+.btn{background:#405b75!important;border-color:#405b75!important;color:#fff!important}
+.btn:hover{background:#31495f!important}
+.btn.secondary{background:#fff!important;border-color:#cbd2da!important;color:#354455!important}
+.btn.secondary:hover{background:#f0f2f5!important}
+.card p,.content p,.content li,.list li{color:#566373!important}
+.list li{border-bottom-color:#e8ebef!important}
+.notice{background:#f0f2f5!important;border-left-color:#8293a3!important;color:#485767!important}
+.timeline{border-left-color:#d2d9e0!important}
+.timeline-item:before{background:#718497!important;box-shadow:0 0 0 4px #f0f2f5!important}
+.pagehead{background:#fff!important;border-bottom-color:#dfe3e8!important}
+.footer{background:#fff!important;border-top-color:#dfe3e8!important;color:#788493!important}
+.footer a,.backtop{color:#526b80!important}
+.placeholder{color:#806b43!important}
+code{color:#465d73!important;background:#f0f2f5!important}
+.menu-toggle{background:#fff!important;border-color:#dfe3e8!important;color:#202b38!important}
+@media(max-width:640px){.navlinks{background:#fff!important;border-bottom-color:#dfe3e8!important}}
